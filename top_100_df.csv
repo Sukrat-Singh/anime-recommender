@@ -1,0 +1,101 @@
+anime_id,name,genre,type,episodes,avg_rating,num_rating
+32281,Kimi no Na wa.,"['drama', 'romance', 'school', 'supernatural']",movie,1,9.37,2199
+5114,Fullmetal Alchemist: Brotherhood,"['action', 'adventure', 'drama', 'fantasy', 'magic', 'military', 'shounen']",tv,64,9.26,24574
+28977,Gintama°,"['action', 'comedy', 'historical', 'parody', 'samurai', 'sci-fi', 'shounen']",tv,51,9.25,1386
+9253,Steins;Gate,"['sci-fi', 'thriller']",tv,24,9.17,19283
+9969,Gintama',"['action', 'comedy', 'historical', 'parody', 'samurai', 'sci-fi', 'shounen']",tv,51,9.16,3673
+32935,Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou,"['comedy', 'drama', 'school', 'shounen', 'sports']",tv,10,9.15,1233
+11061,Hunter x Hunter (2011),"['action', 'adventure', 'shounen', 'super power']",tv,148,9.13,8575
+820,Ginga Eiyuu Densetsu,"['drama', 'military', 'sci-fi', 'space']",ova,110,9.11,903
+15417,Gintama': Enchousen,"['action', 'comedy', 'historical', 'parody', 'samurai', 'sci-fi', 'shounen']",tv,13,9.11,2537
+15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"['action', 'comedy', 'historical', 'parody', 'samurai', 'sci-fi', 'shounen']",movie,1,9.1,2525
+4181,Clannad: After Story,"['drama', 'fantasy', 'romance', 'slice of life', 'supernatural']",tv,24,9.06,17854
+918,Gintama,"['action', 'comedy', 'historical', 'parody', 'samurai', 'sci-fi', 'shounen']",tv,201,9.04,4974
+2904,Code Geass: Hangyaku no Lelouch R2,"['action', 'drama', 'mecha', 'military', 'sci-fi', 'super power']",tv,25,8.98,24242
+199,Sen to Chihiro no Kamikakushi,"['adventure', 'drama', 'supernatural']",movie,1,8.93,22974
+28891,Haikyuu!! Second Season,"['comedy', 'drama', 'school', 'shounen', 'sports']",tv,25,8.93,3975
+23273,Shigatsu wa Kimi no Uso,"['drama', 'music', 'romance', 'school', 'shounen']",tv,22,8.92,9448
+24701,Mushishi Zoku Shou 2nd Season,"['adventure', 'fantasy', 'historical', 'mystery', 'seinen', 'slice of life', 'supernatural']",tv,10,8.88,1712
+12355,Ookami Kodomo no Ame to Yuki,"['fantasy', 'slice of life']",movie,1,8.84,7709
+1575,Code Geass: Hangyaku no Lelouch,"['action', 'mecha', 'military', 'school', 'sci-fi', 'super power']",tv,25,8.83,27718
+263,Hajime no Ippo,"['comedy', 'drama', 'shounen', 'sports']",tv,75,8.83,4935
+44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"['action', 'drama', 'historical', 'martial arts', 'romance', 'samurai']",ova,4,8.83,5729
+1,Cowboy Bebop,"['action', 'adventure', 'comedy', 'drama', 'sci-fi', 'space']",tv,26,8.82,15509
+30276,One Punch Man,"['action', 'comedy', 'parody', 'sci-fi', 'seinen', 'super power', 'supernatural']",tv,12,8.82,13374
+164,Mononoke Hime,"['action', 'adventure', 'fantasy']",movie,1,8.81,16303
+7311,Suzumiya Haruhi no Shoushitsu,"['comedy', 'mystery', 'romance', 'school', 'sci-fi', 'supernatural']",movie,1,8.81,9576
+21939,Mushishi Zoku Shou,"['adventure', 'fantasy', 'historical', 'mystery', 'seinen', 'slice of life', 'supernatural']",tv,10,8.8,2486
+17074,Monogatari Series: Second Season,"['comedy', 'mystery', 'romance', 'supernatural', 'vampire']",tv,26,8.8,6058
+457,Mushishi,"['adventure', 'fantasy', 'historical', 'mystery', 'seinen', 'slice of life', 'supernatural']",tv,26,8.78,7004
+2001,Tengen Toppa Gurren Lagann,"['action', 'adventure', 'comedy', 'mecha', 'sci-fi']",tv,27,8.78,19337
+245,Great Teacher Onizuka,"['comedy', 'drama', 'school', 'shounen', 'slice of life']",tv,43,8.77,9820
+5258,Hajime no Ippo: New Challenger,"['comedy', 'drama', 'shounen', 'sports']",tv,26,8.75,3677
+28957,Mushishi Zoku Shou: Suzu no Shizuku,"['adventure', 'fantasy', 'historical', 'mystery', 'seinen', 'slice of life', 'supernatural']",movie,1,8.75,707
+11665,Natsume Yuujinchou Shi,"['drama', 'fantasy', 'shoujo', 'slice of life', 'supernatural']",tv,13,8.75,3255
+431,Howl no Ugoku Shiro,"['adventure', 'drama', 'fantasy', 'romance']",movie,1,8.74,17258
+11741,Fate/Zero 2nd Season,"['action', 'fantasy', 'supernatural', 'thriller']",tv,12,8.73,12047
+19,Monster,"['drama', 'horror', 'mystery', 'police', 'psychological', 'seinen', 'thriller']",tv,74,8.72,4594
+12365,Bakuman. 3rd Season,"['comedy', 'drama', 'romance', 'shounen']",tv,25,8.71,4974
+1535,Death Note,"['mystery', 'police', 'psychological', 'supernatural', 'thriller']",tv,37,8.71,39340
+19647,Hajime no Ippo: Rising,"['comedy', 'drama', 'shounen', 'sports']",tv,25,8.68,2193
+4282,Kara no Kyoukai 5: Mujun Rasen,"['action', 'drama', 'mystery', 'romance', 'supernatural', 'thriller']",movie,1,8.68,5002
+30654,Ansatsu Kyoushitsu (TV) 2nd Season,"['action', 'comedy', 'school', 'shounen']",tv,25,8.68,2923
+20583,Haikyuu!!,"['comedy', 'drama', 'school', 'shounen', 'sports']",tv,25,8.68,7369
+10379,Natsume Yuujinchou San,"['drama', 'fantasy', 'shoujo', 'slice of life', 'supernatural']",tv,13,8.67,3759
+22135,Ping Pong The Animation,"['psychological', 'seinen', 'sports']",tv,11,8.67,2321
+21329,Mushishi Special: Hihamukage,"['adventure', 'fantasy', 'historical', 'mystery', 'seinen', 'slice of life', 'supernatural']",special,1,8.66,1823
+31043,Boku dake ga Inai Machi,"['mystery', 'psychological', 'seinen', 'supernatural']",tv,12,8.65,9180
+7785,Yojouhan Shinwa Taikei,"['mystery', 'psychological', 'romance']",tv,11,8.65,2091
+31240,Re:Zero kara Hajimeru Isekai Seikatsu,"['drama', 'fantasy', 'psychological', 'thriller']",tv,25,8.64,6123
+4565,Tengen Toppa Gurren Lagann Movie: Lagann-hen,"['action', 'mecha', 'sci-fi', 'space', 'super power']",movie,1,8.64,3033
+5300,Zoku Natsume Yuujinchou,"['drama', 'fantasy', 'shoujo', 'slice of life', 'supernatural']",tv,13,8.64,4617
+6114,Rainbow: Nisha Rokubou no Shichinin,"['drama', 'historical', 'seinen', 'thriller']",tv,26,8.64,3059
+30709,Kamisama Hajimemashita: Kako-hen,"['comedy', 'demons', 'fantasy', 'shoujo', 'supernatural']",ova,4,8.64,363
+3297,Aria The Origination,"['fantasy', 'sci-fi', 'shounen', 'slice of life']",tv,13,8.64,1051
+24415,Kuroko no Basket 3rd Season,"['comedy', 'school', 'shounen', 'sports']",tv,25,8.62,4902
+9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"['drama', 'slice of life', 'supernatural']",tv,11,8.62,16993
+11577,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,"['sci-fi', 'thriller']",movie,1,8.61,6509
+28171,Shokugeki no Souma,"['ecchi', 'school', 'shounen']",tv,24,8.61,7990
+10408,Hotarubi no Mori e,"['drama', 'romance', 'shoujo', 'supernatural']",movie,1,8.61,6954
+26055,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season,"['action', 'adventure', 'drama', 'shounen', 'supernatural']",tv,24,8.6,2742
+777,Hellsing Ultimate,"['action', 'horror', 'military', 'seinen', 'supernatural', 'vampire']",ova,10,8.59,7501
+22535,Kiseijuu: Sei no Kakuritsu,"['action', 'drama', 'horror', 'psychological', 'sci-fi', 'seinen']",tv,24,8.59,11564
+28735,Shouwa Genroku Rakugo Shinjuu,"['drama', 'historical', 'josei']",tv,13,8.59,1030
+12431,Uchuu Kyoudai,"['comedy', 'sci-fi', 'seinen', 'slice of life', 'space']",tv,99,8.59,954
+7472,Gintama Movie: Shinyaku Benizakura-hen,"['action', 'comedy', 'historical', 'parody', 'samurai', 'sci-fi', 'shounen']",movie,1,8.59,2160
+578,Hotaru no Haka,"['drama', 'historical']",movie,1,8.58,7755
+5028,Major S5,"['comedy', 'drama', 'romance', 'sports']",tv,25,8.58,1274
+28805,Bakemono no Ko,"['adventure', 'supernatural']",movie,1,8.58,1869
+16894,Kuroko no Basket 2nd Season,"['comedy', 'school', 'shounen', 'sports']",tv,25,8.58,8235
+801,Ghost in the Shell: Stand Alone Complex 2nd GIG,"['action', 'mecha', 'military', 'mystery', 'police', 'sci-fi', 'seinen']",tv,26,8.57,4211
+5205,Kara no Kyoukai 7: Satsujin Kousatsu (Kou),"['action', 'mystery', 'romance', 'supernatural', 'thriller']",movie,1,8.57,4199
+17389,Kingdom 2nd Season,"['action', 'historical', 'military', 'seinen']",tv,39,8.57,906
+170,Slam Dunk,"['comedy', 'drama', 'school', 'shounen', 'sports']",tv,101,8.56,2711
+10162,Usagi Drop,"['josei', 'slice of life']",tv,11,8.56,6958
+18617,Girls und Panzer der Film,"['military', 'school']",movie,1,8.55,501
+32182,Mob Psycho 100,"['action', 'comedy', 'slice of life', 'supernatural']",tv,12,8.55,3534
+877,Nana,"['comedy', 'drama', 'music', 'romance', 'shoujo', 'slice of life']",tv,47,8.55,6363
+16498,Shingeki no Kyojin,"['action', 'drama', 'fantasy', 'shounen', 'super power']",tv,25,8.54,29584
+24687,Mushishi Zoku Shou: Odoro no Michi,"['adventure', 'fantasy', 'historical', 'mystery', 'seinen', 'slice of life', 'supernatural']",special,1,8.54,1204
+2251,Baccano!,"['action', 'comedy', 'historical', 'mystery', 'seinen', 'supernatural']",tv,13,8.54,11070
+10030,Bakuman. 2nd Season,"['comedy', 'drama', 'romance', 'shounen']",tv,25,8.53,6164
+5941,Cross Game,"['comedy', 'drama', 'romance', 'school', 'sports']",tv,50,8.53,1555
+30346,Doukyuusei (Movie),"['romance', 'school', 'shounen ai', 'slice of life']",movie,1,8.53,485
+3784,Evangelion: 2.0 You Can (Not) Advance,"['action', 'mecha', 'sci-fi']",movie,1,8.53,8001
+13125,Shinsekai yori,"['drama', 'horror', 'mystery', 'sci-fi', 'supernatural']",tv,25,8.53,6270
+12029,Uchuu Senkan Yamato 2199,"['action', 'drama', 'military', 'sci-fi', 'space']",ova,26,8.53,820
+14397,Chihayafuru 2,"['drama', 'game', 'josei', 'slice of life', 'sports']",tv,25,8.52,3065
+10165,Nichijou,"['comedy', 'school', 'slice of life']",tv,26,8.52,5825
+10087,Fate/Zero,"['action', 'fantasy', 'supernatural']",tv,13,8.51,14224
+14719,JoJo no Kimyou na Bouken (TV),"['action', 'adventure', 'shounen', 'supernatural', 'vampire']",tv,26,8.51,5002
+9756,Mahou Shoujo Madoka★Magica,"['drama', 'magic', 'psychological', 'thriller']",tv,12,8.51,16851
+11981,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,"['drama', 'magic', 'psychological', 'thriller']",movie,1,8.5,4475
+32282,Shokugeki no Souma: Ni no Sara,"['ecchi', 'school', 'shounen']",tv,13,8.5,3578
+205,Samurai Champloo,"['action', 'adventure', 'comedy', 'historical', 'samurai', 'shounen']",tv,26,8.5,14068
+11917,Major: World Series,"['comedy', 'drama', 'sports']",ova,2,8.5,574
+22789,Barakamon,"['comedy', 'slice of life']",tv,12,8.5,6678
+18115,Magi: The Kingdom of Magic,"['action', 'adventure', 'fantasy', 'magic', 'shounen']",tv,25,8.5,7279
+30230,Diamond no Ace: Second Season,"['comedy', 'school', 'shounen', 'sports']",tv,51,8.5,868
+13601,Psycho-Pass,"['action', 'police', 'psychological', 'sci-fi']",tv,22,8.5,14008
+6594,Katanagatari,"['action', 'adventure', 'historical', 'martial arts', 'romance']",tv,12,8.49,5317
+11979,Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,"['drama', 'magic', 'psychological', 'thriller']",movie,1,8.49,3014

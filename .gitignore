@@ -1,0 +1,5 @@
+*.pkl
+rating.csv
+pivot_table.pkl
+cos_sim_df.pkl
+__pycache__/
