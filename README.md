@@ -6,7 +6,7 @@ Welcome to the **Anime Recommendation System**, a Streamlit web app that recomme
 
 ## 🚀 Live Demo
 
-[🔗 Try the App on Streamlit Cloud](https://anime-recommender-cfy73atsxeadyjygatppdi.streamlit.app/)) 
+[🔗 Try the App on Streamlit Cloud](https://anime-recommender-cfy73atsxeadyjygatppdi.streamlit.app/)
 
 ---
 
