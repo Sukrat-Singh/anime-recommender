@@ -33,15 +33,18 @@ Welcome to the **Anime Recommendation System**, a Streamlit web app that recomme
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
-anime-recommender/
-├── app.py # 🎯 Main Streamlit app
-├── anime.csv # 📄 Anime metadata
-├── top_100_df.csv # 📄 Preprocessed top 100 anime
-├── requirements.txt # 📦 Python dependencies
-├── .gitignore # ❌ Ignored files (e.g. large model files)
-└── README.md # 📘 Project documentation
+**anime-recommender/**
+
+| File/Folder            | Description                   |
+|------------------------|-------------------------------|
+| `app.py`               |  Main Streamlit app           |
+| `anime.csv`            |  Anime metadata               |
+| `top_100_df.csv`       |  Preprocessed top 100 anime   |
+| `requirements.txt`     |  Python dependencies          |
+| `.gitignore`           |  Ignored files                |
+| `README.md`            |  Project documentation        |
 
 
 ---
